@@ -27,7 +27,7 @@ export default function Contact() {
 
   return (
     <>
-      <SEOHead title="Contact Us" description="Get in touch with SCHES Bhognipur. Call, email, or visit us for admission and other enquiries." />
+      <SEOHead title="Contact Us" description="Get in touch with SCHS Bhognipur. Call, email, or visit us for admission and other enquiries." />
 
       <section className="gradient-primary section-padding">
         <div className="container-custom text-center text-white">
@@ -64,7 +64,7 @@ export default function Contact() {
             {/* Map embed */}
             <div className="rounded-card overflow-hidden shadow-card h-64">
               <iframe
-                title="SCHES Location Map"
+                title="SCHS Location Map"
                 src="https://maps.google.com/maps?q=Bhognipur,Kanpur+Dehat,Uttar+Pradesh&output=embed"
                 width="100%"
                 height="100%"

@@ -17,7 +17,7 @@ const committees = [
 export default function Committees() {
   return (
     <>
-      <SEOHead title="Committees" description="View all statutory and academic committees at SCHES — anti-ragging, ICC, IQAC, placement, and more." />
+      <SEOHead title="Committees" description="View all statutory and academic committees at SCHS — anti-ragging, ICC, IQAC, placement, and more." />
 
       <section className="gradient-primary section-padding">
         <div className="container-custom text-center text-white">
@@ -29,7 +29,7 @@ export default function Committees() {
 
       <section className="section-padding bg-white">
         <div className="container-custom">
-          <SectionHeading badge="Our Governance" title="Committees at SCHES" subtitle="All committees operate as per UGC, PCI, and AKTU regulations." />
+          <SectionHeading badge="Our Governance" title="Committees at SCHS" subtitle="All committees operate as per UGC, PCI, and AKTU regulations." />
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {committees.map((c, i) => (
               <motion.div

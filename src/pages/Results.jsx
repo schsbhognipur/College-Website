@@ -12,7 +12,7 @@ export default function Results() {
 
   return (
     <>
-      <SEOHead title="Results" description="AKTU exam results and academic toppers for SCHES B.Pharma and D.Pharma students." />
+      <SEOHead title="Results" description="AKTU exam results and academic toppers for SCHS B.Pharma and D.Pharma students." />
 
       <section className="gradient-primary section-padding">
         <div className="container-custom text-center text-white">

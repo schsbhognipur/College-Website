@@ -42,7 +42,7 @@ function FeeTable({ data }) {
 export default function FeeStructure() {
   return (
     <>
-      <SEOHead title="Fee Structure" description="View detailed fee structure for B.Pharma and D.Pharma at SCHES. UP Scholarship and education loans available." />
+      <SEOHead title="Fee Structure" description="View detailed fee structure for B.Pharma and D.Pharma at SCHS. UP Scholarship and education loans available." />
 
       <section className="gradient-primary section-padding">
         <div className="container-custom text-center text-white">

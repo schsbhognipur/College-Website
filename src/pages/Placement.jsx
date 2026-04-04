@@ -8,7 +8,7 @@ import PlacementTimeline from '../components/placement/PlacementTimeline';
 export default function Placement() {
   return (
     <>
-      <SEOHead title="Placements" description="SCHES achieves 95% placement rate. Our graduates work at Sun Pharma, Cipla, Lupin, Dr. Reddy's, Mankind & 60+ top pharma companies." />
+      <SEOHead title="Placements" description="SCHS achieves 95% placement rate. Our graduates work at Sun Pharma, Cipla, Lupin, Dr. Reddy's, Mankind & 60+ top pharma companies." />
 
       <section className="gradient-primary section-padding">
         <div className="container-custom text-center text-white">
@@ -27,7 +27,7 @@ export default function Placement() {
 
       <section className="section-padding bg-gray-50">
         <div className="container-custom">
-          <SectionHeading badge="Our Recruiters" title="Companies That Hire from SCHES" subtitle="60+ pharma companies have visited our campus for recruitment." />
+          <SectionHeading badge="Our Recruiters" title="Companies That Hire from SCHS" subtitle="60+ pharma companies have visited our campus for recruitment." />
           <CompanyLogos />
         </div>
       </section>

@@ -5,7 +5,7 @@ import GalleryGrid from '../components/gallery/GalleryGrid';
 export default function Gallery() {
   return (
     <>
-      <SEOHead title="Gallery" description="Explore photos from SCHES campus, labs, events, placement drives, and student life." />
+      <SEOHead title="Gallery" description="Explore photos from SCHS campus, labs, events, placement drives, and student life." />
 
       <section className="gradient-primary section-padding">
         <div className="container-custom text-center text-white">
@@ -17,7 +17,7 @@ export default function Gallery() {
 
       <section className="section-padding bg-white">
         <div className="container-custom">
-          <SectionHeading badge="Our Moments" title="Life at SCHES" subtitle="Filter by category to explore different aspects of campus life." />
+          <SectionHeading badge="Our Moments" title="Life at SCHS" subtitle="Filter by category to explore different aspects of campus life." />
           <GalleryGrid />
         </div>
       </section>

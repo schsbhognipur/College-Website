@@ -20,7 +20,7 @@ const facilities = [
 export default function Facilities() {
   return (
     <>
-      <SEOHead title="Facilities" description="Explore the world-class facilities at SCHES: labs, library, hostel, sports, and more." />
+      <SEOHead title="Facilities" description="Explore the world-class facilities at SCHS: labs, library, hostel, sports, and more." />
 
       <section className="gradient-primary section-padding">
         <div className="container-custom text-center text-white">
