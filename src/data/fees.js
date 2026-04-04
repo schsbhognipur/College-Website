@@ -43,7 +43,7 @@ export const feeStructure = {
 
 export const paymentModes = [
   "Online Transfer (NEFT/IMPS) via College ERP Portal",
-  "Demand Draft in favor of 'Sanskriti College of Higher Education and Studies' payable at Kanpur Dehat",
+  "Demand Draft in favor of 'Sanskriti College of Higher Studies' payable at Kanpur Dehat",
   "UPI (GPay, PhonePe, Paytm) at the College Account Office",
   "Fee collection counter at the main campus (10:00 AM - 4:00 PM)"
 ];

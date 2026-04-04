@@ -66,7 +66,7 @@ export default function Footer() {
             </div>
             <div>
               <p className="font-extrabold text-sm">Sanskriti College</p>
-              <p className="text-xs text-white/60">of Higher Education & Studies</p>
+              <p className="text-xs text-white/60">of Higher Studies</p>
             </div>
           </div>
           <p className="text-white/70 text-sm leading-relaxed mb-5">

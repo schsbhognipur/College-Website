@@ -1,4 +1,4 @@
-const SITE_NAME = 'Sanskriti College of Higher Education and Studies';
+const SITE_NAME = 'Sanskriti College of Higher Studies';
 const BASE_URL = 'https://sanskritipharmacycollege.ac.in';
 
 export function buildSEO({
@@ -15,7 +15,7 @@ export function buildSEO({
     title: fullTitle,
     description:
       description ||
-      'Sanskriti College of Higher Education and Studies — PCI Approved, AKTU Affiliated pharmacy college in Bhognipur, Kanpur Dehat, Uttar Pradesh. Offering B.Pharma & D.Pharma programs.',
+      'Sanskriti College of Higher Studies — PCI Approved, AKTU Affiliated pharmacy college in Bhognipur, Kanpur Dehat, Uttar Pradesh. Offering B.Pharma & D.Pharma programs.',
     canonical: `${BASE_URL}${path}`,
     og: {
       title: fullTitle,

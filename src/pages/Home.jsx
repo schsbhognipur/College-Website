@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <SEOHead 
         title="Home" 
-        description="Welcome to Sanskriti College of Higher Education and Studies, Bhognipur. PCI approved and AKTU affiliated premier pharmacy college in Kanpur Dehat."
+        description="Welcome to Sanskriti College of Higher Studies, Bhognipur. PCI approved and AKTU affiliated premier pharmacy college in Kanpur Dehat."
       />
       
       {/* Hero Section */}

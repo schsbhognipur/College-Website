@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet-async';
 
 export default function SEOHead({ title, description, canonical, image }) {
-  const siteName = 'Sanskriti College of Higher Education and Studies';
+  const siteName = 'Sanskriti College of Higher Studies';
   const fullTitle = title ? `${title} | SCHS` : `${siteName} | Pharmacy College, Bhognipur`;
   const desc = description || 'PCI Approved, AKTU Affiliated Pharmacy College in Bhognipur, Kanpur Dehat, UP. B.Pharma & D.Pharma admissions open.';
 

@@ -25,7 +25,7 @@ export default function Faculty() {
     <>
       <SEOHead 
         title="Faculty Members" 
-        description="Meet the highly qualified and experienced faculty members at Sanskriti College of Higher Education and Studies. Led by Dr. Anjali Srivastava."
+        description="Meet the highly qualified and experienced faculty members at Sanskriti College of Higher Studies. Led by Dr. Anjali Srivastava."
       />
 
       {/* Hero Banner */}

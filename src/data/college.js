@@ -1,5 +1,5 @@
 export const college = {
-  name: "Sanskriti College of Higher Education and Studies",
+  name: "Sanskriti College of Higher Studies",
   shortName: "Sanskriti College",
   tagline: "Building Pharmaceutical Professionals Since 2012",
   taglines: [
@@ -18,9 +18,9 @@ export const college = {
   },
   contact: {
     phone: ["8604502237", "8299563154"],
-    email: ["sanskritipharmacycollege@gmail.com"],
-    whatsapp: "918604502237",
-    whatsappMessage: "Hi, I want to inquire about admissions at Sanskriti College"
+    email: ["schsbhognipur@gmail.com"],
+    whatsapp: "917985025413",
+    whatsappMessage: "Hi, I want to inquire about admissions at Sanskriti College",
   },
   social: {
     facebook: "#",

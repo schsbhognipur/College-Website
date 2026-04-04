@@ -40,7 +40,7 @@ export default function About() {
     <>
       <SEOHead 
         title="About Us" 
-        description="Learn more about Sanskriti College of Higher Education and Studies (SCHS). A premier PCI approved pharmacy college in Bhognipur, Kanpur Dehat."
+        description="Learn more about Sanskriti College of Higher Studies (SCHS). A premier PCI approved pharmacy college in Bhognipur, Kanpur Dehat."
       />
 
       {/* Hero Banner */}
@@ -75,7 +75,7 @@ export default function About() {
                 Excellence in Pharmaceutical <br className="hidden md:block"/> Education in Kanpur Dehat
               </h2>
               <p className="text-gray-500 text-lg leading-relaxed font-medium">
-                Founded in 2012 in Bhognipur, Kanpur Dehat, Sanskriti College of Higher Education and Studies (SCHS) has emerged as a center of academic excellence. We are fully approved by the <strong>Pharmacy Council of India (PCI)</strong> and affiliated with <strong>AKTU (Lucknow)</strong> and <strong>BTE (UP)</strong>.
+                Founded in 2012 in Bhognipur, Kanpur Dehat, Sanskriti College of Higher Studies (SCHS) has emerged as a center of academic excellence. We are fully approved by the <strong>Pharmacy Council of India (PCI)</strong> and affiliated with <strong>AKTU (Lucknow)</strong> and <strong>BTE (UP)</strong>.
               </p>
               <p className="text-gray-500 text-lg leading-relaxed font-medium">
                 Our institution is committed to helping students achieve their pharmaceutical dreams through a blend of rigorous academics, hands-on lab experience, and active industry participation.

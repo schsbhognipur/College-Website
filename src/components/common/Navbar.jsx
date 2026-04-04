@@ -123,7 +123,7 @@ export default function Navbar() {
             </div>
             <div>
               <p className="text-primary font-extrabold text-sm leading-tight">Sanskriti College</p>
-              <p className="text-gray-500 text-xs">of Higher Education & Studies</p>
+              <p className="text-gray-500 text-xs">of Higher Studies</p>
             </div>
           </Link>
 
